@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: e900d4d9c6624f54cb1f16d0fde58820
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 469194587127109314
+    second: game-ui-icons-red_0
+  - first:
+      213: -7971119826994978180
+    second: game-ui-icons-red_1
+  - first:
+      213: 4792031220579827749
+    second: game-ui-icons-red_2
+  - first:
+      213: 8812199661594305904
+    second: game-ui-icons-red_3
+  - first:
+      213: 4586864341832167629
+    second: game-ui-icons-red_4
+  - first:
+      213: -1695859541708009995
+    second: game-ui-icons-red_5
+  - first:
+      213: 7058161770930535272
+    second: game-ui-icons-red_6
+  - first:
+      213: 5469849612882467707
+    second: game-ui-icons-red_7
+  - first:
+      213: 9097157750020851117
+    second: game-ui-icons-red_8
+  - first:
+      213: 934619332072987181
+    second: game-ui-icons-red_9
+  - first:
+      213: -1697214657777593450
+    second: game-ui-icons-red_10
+  - first:
+      213: 2266476199178389395
+    second: game-ui-icons-red_11
+  - first:
+      213: 9168270007823903104
+    second: game-ui-icons-red_12
+  - first:
+      213: -8839866159545398390
+    second: game-ui-icons-red_13
+  - first:
+      213: -3728003569371342431
+    second: game-ui-icons-red_14
+  - first:
+      213: 4296031094302053758
+    second: game-ui-icons-red_15
+  - first:
+      213: 6804290821261649577
+    second: game-ui-icons-red_16
+  - first:
+      213: 4292753387522148233
+    second: game-ui-icons-red_17
+  - first:
+      213: 1732089378041494066
+    second: game-ui-icons-red_18
+  - first:
+      213: -1969445726784228387
+    second: game-ui-icons-red_19
+  - first:
+      213: 4575659368957105594
+    second: game-ui-icons-red_20
+  - first:
+      213: 6883758934346973780
+    second: game-ui-icons-red_21
+  - first:
+      213: -4659443020586548482
+    second: game-ui-icons-red_22
+  - first:
+      213: 8339621597601055550
+    second: game-ui-icons-red_23
+  - first:
+      213: -8544420701619022319
+    second: game-ui-icons-red_24
+  - first:
+      213: 6251039673575166419
+    second: game-ui-icons-red_25
+  - first:
+      213: -6696615580768974078
+    second: game-ui-icons-red_26
+  - first:
+      213: -2368100900212514694
+    second: game-ui-icons-red_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game-ui-icons-red_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1559
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c65f38bdf9e28600800000000000000
+      internalID: 469194587127109314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_1
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1559
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7224e900c4e06190800000000000000
+      internalID: -7971119826994978180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_2
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1559
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5200e3f7107b08240800000000000000
+      internalID: 4792031220579827749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_3
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1559
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075652737e83b4a70800000000000000
+      internalID: 8812199661594305904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_4
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1559
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0ffcf01d0d7af30800000000000000
+      internalID: 4586864341832167629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_5
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1559
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd898b5bb81778e0800000000000000
+      internalID: -1695859541708009995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_6
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 1559
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b7e832cb0a3f160800000000000000
+      internalID: 7058161770930535272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1039
+        width: 387
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bdaae0e3fc8eb40800000000000000
+      internalID: 5469849612882467707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1039
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da54fab56c89f3e70800000000000000
+      internalID: 9097157750020851117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_9
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1039
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a5c68a45f68fc00800000000000000
+      internalID: 934619332072987181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_10
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1039
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693949fc2484278e0800000000000000
+      internalID: -1697214657777593450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_11
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1039
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397c7e74814247f10800000000000000
+      internalID: 2266476199178389395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_12
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1039
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089263d1ffc3c3f70800000000000000
+      internalID: 9168270007823903104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_13
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 1039
+        width: 387
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bcc42409c725580800000000000000
+      internalID: -8839866159545398390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 387
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a99b366188734cc0800000000000000
+      internalID: -3728003569371342431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_15
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 519
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7518e7d4819e9b30800000000000000
+      internalID: 4296031094302053758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_16
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 519
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a660c58372bd6e50800000000000000
+      internalID: 6804290821261649577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_17
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 519
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987cc93467ce29b30800000000000000
+      internalID: 4292753387522148233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_18
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 519
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23af361cc1e990810800000000000000
+      internalID: 1732089378041494066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_19
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 519
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd37d9acb8f1ba4e0800000000000000
+      internalID: -1969445726784228387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_20
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 519
+        width: 387
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab550e304f1008f30800000000000000
+      internalID: 4575659368957105594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4524c217746088f50800000000000000
+      internalID: 6883758934346973780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_22
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef204c27245565fb0800000000000000
+      internalID: -4659443020586548482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_23
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 0
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33cf2668a94cb370800000000000000
+      internalID: 8339621597601055550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_24
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 0
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116118464ae1c6980800000000000000
+      internalID: -8544420701619022319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_25
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 0
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d15254b67720c650800000000000000
+      internalID: 6251039673575166419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_26
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 0
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b4be60c97d013a0800000000000000
+      internalID: -6696615580768974078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-red_27
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 0
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70ec8a27c0d22fd0800000000000000
+      internalID: -2368100900212514694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      game-ui-icons-red_0: 469194587127109314
+      game-ui-icons-red_1: -7971119826994978180
+      game-ui-icons-red_10: -1697214657777593450
+      game-ui-icons-red_11: 2266476199178389395
+      game-ui-icons-red_12: 9168270007823903104
+      game-ui-icons-red_13: -8839866159545398390
+      game-ui-icons-red_14: -3728003569371342431
+      game-ui-icons-red_15: 4296031094302053758
+      game-ui-icons-red_16: 6804290821261649577
+      game-ui-icons-red_17: 4292753387522148233
+      game-ui-icons-red_18: 1732089378041494066
+      game-ui-icons-red_19: -1969445726784228387
+      game-ui-icons-red_2: 4792031220579827749
+      game-ui-icons-red_20: 4575659368957105594
+      game-ui-icons-red_21: 6883758934346973780
+      game-ui-icons-red_22: -4659443020586548482
+      game-ui-icons-red_23: 8339621597601055550
+      game-ui-icons-red_24: -8544420701619022319
+      game-ui-icons-red_25: 6251039673575166419
+      game-ui-icons-red_26: -6696615580768974078
+      game-ui-icons-red_27: -2368100900212514694
+      game-ui-icons-red_3: 8812199661594305904
+      game-ui-icons-red_4: 4586864341832167629
+      game-ui-icons-red_5: -1695859541708009995
+      game-ui-icons-red_6: 7058161770930535272
+      game-ui-icons-red_7: 5469849612882467707
+      game-ui-icons-red_8: 9097157750020851117
+      game-ui-icons-red_9: 934619332072987181
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

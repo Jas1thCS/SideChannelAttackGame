@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: cb753fadc330eef4c918e890b134fd65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 365318812950543438
+    second: KeyboardLetters_Sheet_80x80_0
+  - first:
+      213: 1802823776120606960
+    second: KeyboardLetters_Sheet_80x80_1
+  - first:
+      213: 8198910848480751956
+    second: KeyboardLetters_Sheet_80x80_2
+  - first:
+      213: -2349388489330321560
+    second: KeyboardLetters_Sheet_80x80_3
+  - first:
+      213: -877073861703721145
+    second: KeyboardLetters_Sheet_80x80_4
+  - first:
+      213: -7877732260177339896
+    second: KeyboardLetters_Sheet_80x80_5
+  - first:
+      213: 45763828985510547
+    second: KeyboardLetters_Sheet_80x80_6
+  - first:
+      213: -4239644594499406629
+    second: KeyboardLetters_Sheet_80x80_7
+  - first:
+      213: -6865115665600247905
+    second: KeyboardLetters_Sheet_80x80_8
+  - first:
+      213: 8118036534358475709
+    second: KeyboardLetters_Sheet_80x80_9
+  - first:
+      213: -7147926840568764973
+    second: KeyboardLetters_Sheet_80x80_10
+  - first:
+      213: -4403374253950812870
+    second: KeyboardLetters_Sheet_80x80_11
+  - first:
+      213: -8799017927415972201
+    second: KeyboardLetters_Sheet_80x80_12
+  - first:
+      213: 5419830985980774472
+    second: KeyboardLetters_Sheet_80x80_13
+  - first:
+      213: 2849560320088687387
+    second: KeyboardLetters_Sheet_80x80_14
+  - first:
+      213: 3767084386011260043
+    second: KeyboardLetters_Sheet_80x80_15
+  - first:
+      213: -7029297461309685838
+    second: KeyboardLetters_Sheet_80x80_16
+  - first:
+      213: 890586148513574606
+    second: KeyboardLetters_Sheet_80x80_17
+  - first:
+      213: -3279166982304689759
+    second: KeyboardLetters_Sheet_80x80_18
+  - first:
+      213: -2678892259663992727
+    second: KeyboardLetters_Sheet_80x80_19
+  - first:
+      213: -2398289856763863551
+    second: KeyboardLetters_Sheet_80x80_20
+  - first:
+      213: 8963702997855448164
+    second: KeyboardLetters_Sheet_80x80_21
+  - first:
+      213: -547315186541919339
+    second: KeyboardLetters_Sheet_80x80_22
+  - first:
+      213: 4560381199549043657
+    second: KeyboardLetters_Sheet_80x80_23
+  - first:
+      213: -8202498498105862547
+    second: KeyboardLetters_Sheet_80x80_24
+  - first:
+      213: -4063867625649454190
+    second: KeyboardLetters_Sheet_80x80_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 244
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c3fab568fd11500800000000000000
+      internalID: 365318812950543438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 244
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f01c403caae40910800000000000000
+      internalID: 1802823776120606960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 244
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451bacc1af168c170800000000000000
+      internalID: 8198910848480751956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 244
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8671316dd9b456fd0800000000000000
+      internalID: -2349388489330321560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 244
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f9e5f38f104d3f0800000000000000
+      internalID: -877073861703721145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 244
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a9e745f3caca290800000000000000
+      internalID: -7877732260177339896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 244
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a3e32c5f592a000800000000000000
+      internalID: 45763828985510547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_7
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 244
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd435f234b1c925c0800000000000000
+      internalID: -4239644594499406629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f978de1dca53ab0a0800000000000000
+      internalID: -6865115665600247905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 164
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db38410873f09a070800000000000000
+      internalID: 8118036534358475709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 164
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d52b6be8667dcc90800000000000000
+      internalID: -7147926840568764973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_11
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 164
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d3924327214e2c0800000000000000
+      internalID: -4403374253950812870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_12
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 164
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79eb31070db93e580800000000000000
+      internalID: -8799017927415972201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 164
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8480a06f09b173b40800000000000000
+      internalID: 5419830985980774472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_14
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 164
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b134fe4730cab8720800000000000000
+      internalID: 2849560320088687387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_15
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 164
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b842f1b4a4f574430800000000000000
+      internalID: 3767084386011260043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 84
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfb416a33be27e90800000000000000
+      internalID: -7029297461309685838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecee800326ffb5c00800000000000000
+      internalID: 890586148513574606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 84
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a11a8cd00f0e72d0800000000000000
+      internalID: -3279166982304689759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_19
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 84
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9682f27eea9a2dad0800000000000000
+      internalID: -2678892259663992727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_20
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 84
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10eda2bf41097bed0800000000000000
+      internalID: -2398289856763863551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_21
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 84
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c27438268756c70800000000000000
+      internalID: 8963702997855448164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_22
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 84
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5930ef5dcbb8768f0800000000000000
+      internalID: -547315186541919339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_23
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 84
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c39d7ff98ab94f30800000000000000
+      internalID: 4560381199549043657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6699bd131fda2e80800000000000000
+      internalID: -8202498498105862547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyboardLetters_Sheet_80x80_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29344fefced3a97c0800000000000000
+      internalID: -4063867625649454190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KeyboardLetters_Sheet_80x80_0: 365318812950543438
+      KeyboardLetters_Sheet_80x80_1: 1802823776120606960
+      KeyboardLetters_Sheet_80x80_10: -7147926840568764973
+      KeyboardLetters_Sheet_80x80_11: -4403374253950812870
+      KeyboardLetters_Sheet_80x80_12: -8799017927415972201
+      KeyboardLetters_Sheet_80x80_13: 5419830985980774472
+      KeyboardLetters_Sheet_80x80_14: 2849560320088687387
+      KeyboardLetters_Sheet_80x80_15: 3767084386011260043
+      KeyboardLetters_Sheet_80x80_16: -7029297461309685838
+      KeyboardLetters_Sheet_80x80_17: 890586148513574606
+      KeyboardLetters_Sheet_80x80_18: -3279166982304689759
+      KeyboardLetters_Sheet_80x80_19: -2678892259663992727
+      KeyboardLetters_Sheet_80x80_2: 8198910848480751956
+      KeyboardLetters_Sheet_80x80_20: -2398289856763863551
+      KeyboardLetters_Sheet_80x80_21: 8963702997855448164
+      KeyboardLetters_Sheet_80x80_22: -547315186541919339
+      KeyboardLetters_Sheet_80x80_23: 4560381199549043657
+      KeyboardLetters_Sheet_80x80_24: -8202498498105862547
+      KeyboardLetters_Sheet_80x80_25: -4063867625649454190
+      KeyboardLetters_Sheet_80x80_3: -2349388489330321560
+      KeyboardLetters_Sheet_80x80_4: -877073861703721145
+      KeyboardLetters_Sheet_80x80_5: -7877732260177339896
+      KeyboardLetters_Sheet_80x80_6: 45763828985510547
+      KeyboardLetters_Sheet_80x80_7: -4239644594499406629
+      KeyboardLetters_Sheet_80x80_8: -6865115665600247905
+      KeyboardLetters_Sheet_80x80_9: 8118036534358475709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

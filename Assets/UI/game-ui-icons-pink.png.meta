@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 3a5f1085a0d150242b8327beeb2730eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2089238004583055301
+    second: game-ui-icons-pink_0
+  - first:
+      213: -7845025991148365523
+    second: game-ui-icons-pink_1
+  - first:
+      213: 7851844855071487249
+    second: game-ui-icons-pink_2
+  - first:
+      213: 4031151412816614371
+    second: game-ui-icons-pink_3
+  - first:
+      213: -4210439989002266386
+    second: game-ui-icons-pink_4
+  - first:
+      213: -1346343552086236951
+    second: game-ui-icons-pink_5
+  - first:
+      213: 8384841267048795356
+    second: game-ui-icons-pink_6
+  - first:
+      213: -3823039575527754742
+    second: game-ui-icons-pink_7
+  - first:
+      213: -8546240387040484429
+    second: game-ui-icons-pink_8
+  - first:
+      213: -3748877135324687415
+    second: game-ui-icons-pink_9
+  - first:
+      213: 7393089185898927134
+    second: game-ui-icons-pink_10
+  - first:
+      213: 1355728715268095887
+    second: game-ui-icons-pink_11
+  - first:
+      213: -7261342567000454371
+    second: game-ui-icons-pink_12
+  - first:
+      213: 5823423249946623639
+    second: game-ui-icons-pink_13
+  - first:
+      213: 1976264022954301568
+    second: game-ui-icons-pink_14
+  - first:
+      213: -5133008083076279371
+    second: game-ui-icons-pink_15
+  - first:
+      213: 15405495242921957
+    second: game-ui-icons-pink_16
+  - first:
+      213: -2479942474131490725
+    second: game-ui-icons-pink_17
+  - first:
+      213: -5848209253236243663
+    second: game-ui-icons-pink_18
+  - first:
+      213: 8473842757013758914
+    second: game-ui-icons-pink_19
+  - first:
+      213: -8211845681746847084
+    second: game-ui-icons-pink_20
+  - first:
+      213: -1012032176381019827
+    second: game-ui-icons-pink_21
+  - first:
+      213: -1627175625955147020
+    second: game-ui-icons-pink_22
+  - first:
+      213: 1193651423605976687
+    second: game-ui-icons-pink_23
+  - first:
+      213: -6895472883476864835
+    second: game-ui-icons-pink_24
+  - first:
+      213: 3731674533887917547
+    second: game-ui-icons-pink_25
+  - first:
+      213: -2977680956840762834
+    second: game-ui-icons-pink_26
+  - first:
+      213: 143574291150052152
+    second: game-ui-icons-pink_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game-ui-icons-pink_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1559
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30c495aa198103e0800000000000000
+      internalID: -2089238004583055301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_1
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1559
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2915effc6ed02390800000000000000
+      internalID: -7845025991148365523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_2
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1559
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115b30a7b4b57fc60800000000000000
+      internalID: 7851844855071487249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_3
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1559
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e39fbc1ad681f730800000000000000
+      internalID: 4031151412816614371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_4
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1559
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee89b6b43238195c0800000000000000
+      internalID: -4210439989002266386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_5
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1559
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e023403ca3d05de0800000000000000
+      internalID: -1346343552086236951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_6
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 1559
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcca7425b0fc5470800000000000000
+      internalID: 8384841267048795356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1039
+        width: 387
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04786ae2c5d1fac0800000000000000
+      internalID: -3823039575527754742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1039
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3ea5dd5a7a56980800000000000000
+      internalID: -8546240387040484429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_9
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1039
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3536a9b1059fbc0800000000000000
+      internalID: -3748877135324687415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_10
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1039
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14994eb177899660800000000000000
+      internalID: 7393089185898927134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_11
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1039
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ff955651480d210800000000000000
+      internalID: 1355728715268095887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_12
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1039
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bc38558678a3b90800000000000000
+      internalID: -7261342567000454371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_13
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 1039
+        width: 387
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79eb1dd8794f0d050800000000000000
+      internalID: 5823423249946623639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 387
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088539e78a91d6b10800000000000000
+      internalID: 1976264022954301568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_15
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 519
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b397032854e3c8b0800000000000000
+      internalID: -5133008083076279371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_16
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 519
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e71b8f573bb63000800000000000000
+      internalID: 15405495242921957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_17
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 519
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b583df58579759dd0800000000000000
+      internalID: -2479942474131490725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_18
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 519
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13383b85bacf6dea0800000000000000
+      internalID: -5848209253236243663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_19
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 519
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c362565713299570800000000000000
+      internalID: 8473842757013758914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_20
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 519
+        width: 387
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a57255cd9a90e80800000000000000
+      internalID: -8211845681746847084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d493b89f81a84f1f0800000000000000
+      internalID: -1012032176381019827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_22
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f205cba36c1b69e0800000000000000
+      internalID: -1627175625955147020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_23
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 0
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e6ca145a3b09010800000000000000
+      internalID: 1193651423605976687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_24
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 0
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0e50e32fb5e40a0800000000000000
+      internalID: -6895472883476864835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_25
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 0
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedb2c1a73299c330800000000000000
+      internalID: 3731674533887917547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_26
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 0
+        width: 388
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22af0932f62da6d0800000000000000
+      internalID: -2977680956840762834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-icons-pink_27
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 0
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b90ee9e041ef100800000000000000
+      internalID: 143574291150052152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      game-ui-icons-pink_0: -2089238004583055301
+      game-ui-icons-pink_1: -7845025991148365523
+      game-ui-icons-pink_10: 7393089185898927134
+      game-ui-icons-pink_11: 1355728715268095887
+      game-ui-icons-pink_12: -7261342567000454371
+      game-ui-icons-pink_13: 5823423249946623639
+      game-ui-icons-pink_14: 1976264022954301568
+      game-ui-icons-pink_15: -5133008083076279371
+      game-ui-icons-pink_16: 15405495242921957
+      game-ui-icons-pink_17: -2479942474131490725
+      game-ui-icons-pink_18: -5848209253236243663
+      game-ui-icons-pink_19: 8473842757013758914
+      game-ui-icons-pink_2: 7851844855071487249
+      game-ui-icons-pink_20: -8211845681746847084
+      game-ui-icons-pink_21: -1012032176381019827
+      game-ui-icons-pink_22: -1627175625955147020
+      game-ui-icons-pink_23: 1193651423605976687
+      game-ui-icons-pink_24: -6895472883476864835
+      game-ui-icons-pink_25: 3731674533887917547
+      game-ui-icons-pink_26: -2977680956840762834
+      game-ui-icons-pink_27: 143574291150052152
+      game-ui-icons-pink_3: 4031151412816614371
+      game-ui-icons-pink_4: -4210439989002266386
+      game-ui-icons-pink_5: -1346343552086236951
+      game-ui-icons-pink_6: 8384841267048795356
+      game-ui-icons-pink_7: -3823039575527754742
+      game-ui-icons-pink_8: -8546240387040484429
+      game-ui-icons-pink_9: -3748877135324687415
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
