@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class TutorialManager : MonoBehaviour
@@ -185,6 +186,10 @@ public class TutorialManager : MonoBehaviour
         arrowAnimationCoroutine = StartCoroutine(AnimateArrow());
     }
 
+    public void LoadTutorialScene()
+    {
+        SceneManager.LoadScene("TutorialVidScene");
+    }
     void StopArrowAnimation()
     {
         if (arrowAnimationCoroutine != null)

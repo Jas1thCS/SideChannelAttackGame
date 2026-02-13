@@ -7,6 +7,7 @@ public class MainMenuManager : MonoBehaviour
     private const string HEATGRID_SCENE = "EasyHeatmapGraph";
     private const string CREDIT_SCENE = "Credits";
     private const string MAINMENU_SCENE = "MainMenu";
+    private const string HOWTOPLAY_SCENE = "TutorialVidScene";
 
     public void LoadPipelineGame()
     {
@@ -24,6 +25,10 @@ public class MainMenuManager : MonoBehaviour
     public void LoadMainMenuScene()
     {
         SceneManager.LoadScene(MAINMENU_SCENE);
+    }
+    public void LoadTutorialScene()
+    {
+        SceneManager.LoadScene(HOWTOPLAY_SCENE);
     }
 
 }

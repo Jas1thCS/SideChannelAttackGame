@@ -25,7 +25,8 @@ public class InstructionRunner : MonoBehaviour
     public TMPro.TextMeshProUGUI feedbackText;
     private string correctCategory;
 
-    
+    public RectTransform[] pipelineArrows;
+
     public TMPro.TextMeshProUGUI scoreText;
     //Group the instructions into their category so that they can be used for MCQ...
     private Dictionary<string, string> instructionCategory = new Dictionary<string, string>()
@@ -78,7 +79,11 @@ public class InstructionRunner : MonoBehaviour
             case "OR":
                 ApplyHeatToStage(2, Random.Range(0.6f, 1.0f)); // EX
                 ApplyHeatToStage(4, Random.Range(0.3f, 0.6f)); // WB
+                PulseArrowsForPath(0, 2, 0.6f); // arrows 0 and 1
+                PulseArrowsForPath(2, 4, 0.4f); // arrows 2 and 3
                 break;
+
+              
 
             case "LW":
                 ApplyHeatToStage(0, Random.Range(0.2f, 0.4f)); // IF
@@ -86,13 +91,19 @@ public class InstructionRunner : MonoBehaviour
                 ApplyHeatToStage(2, Random.Range(0.4f, 0.7f)); // EX
                 ApplyHeatToStage(3, Random.Range(0.8f, 1.0f)); // MEM
                 ApplyHeatToStage(4, Random.Range(0.4f, 0.6f)); // WB
+
+                PulseArrowsForPath(0, 4, 0.9f); // arrows 0,1,2,3
+
+
                 break;
 
             case "SW":
                 ApplyHeatToStage(0, Random.Range(0.2f, 0.4f)); //IF
                 ApplyHeatToStage(1, Random.Range(0.2f, 0.4f)); //ID
                 ApplyHeatToStage(2, Random.Range(0.4f, 0.7f)); //EX
-                ApplyHeatToStage(3, Random.Range(0.8f, 1.0f)); //WB
+                ApplyHeatToStage(3, Random.Range(0.8f, 1.0f)); //MEM
+
+                PulseArrowsForPath(0, 3, 0.8f); // arrows 0,1,2
                 break;
 
             case "BEQ":
@@ -100,11 +111,14 @@ public class InstructionRunner : MonoBehaviour
                 ApplyHeatToStage(0, Random.Range(0.2f, 0.4f)); //IF
                 ApplyHeatToStage(1, Random.Range(0.2f, 0.4f)); //ID
                 ApplyHeatToStage(2, Random.Range(0.5f, 0.9f)); //EX
+                PulseArrowsForPath(0, 2, 0.7f); // arrows 0,1
+
                 break;
 
             case "J":
                 ApplyHeatToStage(0, Random.Range(0.2f, 0.4f)); //IF
                 ApplyHeatToStage(1, Random.Range(0.2f, 0.4f)); //ID
+                PulseArrow(0, 0.6f); // IF->ID only
                 break;
 
             default:
@@ -254,6 +268,22 @@ public class InstructionRunner : MonoBehaviour
     public void SelectOption4()
     {
         CheckAnswer(option4Text.text);
+    }
+
+    void PulseArrow(int index, float intensity)
+    {
+        if (pipelineArrows == null || index < 0 || index >= pipelineArrows.Length) return;
+
+        var pulse = pipelineArrows[index].GetComponent<ArrowPulse>();
+        if (pulse != null) pulse.Pulse(intensity);
+        else Debug.LogWarning($"No ArrowPulse found on arrow {index}");
+    }
+
+    // pulses arrows for contiguous stage path: e.g. 0..4 pulses 0,1,2,3
+    void PulseArrowsForPath(int startStage, int endStage, float intensity)
+    {
+        for (int a = startStage; a < endStage; a++)
+            PulseArrow(a, intensity);
     }
 
 
